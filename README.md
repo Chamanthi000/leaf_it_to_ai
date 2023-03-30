@@ -1,5 +1,7 @@
 # leaf_it_to_ai
 
+Check out the app: https://huggingface.co/spaces/Chamanthi/Capstone_Leaf_it_to_AI
+
 The current process for disease diagnosis is based on manual scouting, which is time-consuming and expensive.
 
 Our solution aims to develop deep learning-based models using FAST AI (https://docs.fast.ai/) to accurately classify and identify apple orchard leaf diseases from images 
